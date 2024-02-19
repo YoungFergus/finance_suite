@@ -1,5 +1,7 @@
 Equity Buy Trigger:
 
+1. Reaches a date and invests all saved money into stock
+2. Price goes {x}% below the 50 day moving average
 Class Investment()
     self.ticker = None
 
